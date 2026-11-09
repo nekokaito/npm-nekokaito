@@ -1,5 +1,11 @@
 # kamiruu
 
+## 4.0.0
+
+### Major Changes
+
+- 2b67b0d: added nekokaito
+
 ## 3.0.0
 
 ### Major Changes
