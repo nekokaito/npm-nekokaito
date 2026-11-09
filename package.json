@@ -1,5 +1,5 @@
 {
-  "name": "kamiruu",
+  "name": "nekokaito",
   "type": "module",
   "version": "3.0.0",
   "description": "fetch myself",
@@ -8,7 +8,7 @@
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
-    "kamiru": "dist/index.js"
+    "nekokaito": "dist/index.js"
   },
   "files": [
     "/dist",
