@@ -11,7 +11,7 @@ const config: Config = {
     github: { label: "@nekokaito", url: "https://github.com/nekokaito" },
     email: { label: "siddiqsazzad001@gmail.com", url: "siddiqsazzad001@gmail.com" },
     website: { label: "nekokaito.me", url: "https://siddiqsazzad.thekami.tech/" },
-    
+
   },
   skills: ["C", "TypeScript", "Python", "Next.js", "Node.js", "MongoDB", "Docker", "Git", "Linux"],
 };
